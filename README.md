@@ -1,4 +1,4 @@
-## Hi! I'm Devajith
+ Hi!  I'm Devajith
 
 Software Developer with a background in AI & Data Science.  
 I enjoy building clean, practical solutions and strengthening my problem-solving skills through real-world projects.
