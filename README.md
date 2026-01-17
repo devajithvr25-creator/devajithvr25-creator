@@ -1,36 +1,43 @@
- Hi! I'm Devajith
+## Hi 👋 I'm Devajith
 
 Software Developer with a background in AI & Data Science.  
-Focused on building clean, practical solutions and improving problem-solving skills through real-world projects.
+I enjoy building clean, practical solutions and strengthening my problem-solving skills through real-world projects.
 
+---
 
-Technical Skills
-- Python
-- Java
-- R Programming
-- C Programming
-- HTML
+### 💻 Technical Skills
+- Python  
+- Java  
+- R Programming  
+- C Programming  
+- HTML  
 
+---
 
-Web Development
-- Builds websites independently from scratch
-- Uses AI-assisted workflows when appropriate to improve productivity and efficiency
-- Focus on clean structure, usability, and maintainable code
+### 🌐 Web Development
+- Builds websites independently from scratch  
+- Uses AI-assisted workflows when appropriate to improve productivity and efficiency  
+- Focuses on clean structure, usability, and maintainable code  
 
+---
 
-Interests 
-- Software Development
-- Data Science Foundations
-- Problem Solving & Logical Thinking
-- Continuous Learning
+### 🎯 Interests
+- Software Development  
+- Data Science Foundations  
+- Problem Solving & Logical Thinking  
+- Continuous Learning  
 
-Career Objective
-- Open to Internships and Entry-Level Software Developer roles, where I can contribute, learn, and grow in a professional environment.
+---
 
+### 📌 Career Objective
+Open to **Internships** and **Entry-Level Software Developer roles**, where I can contribute, learn, and grow in a professional environment.
 
-Contact
+---
+
+### 📫 Contact
 - Email: devajithvr25@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/devajith-v-r-43826b321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://www.linkedin.com/in/devajith-v-r-43826b321
 
+---
 
 ⭐ Always open to learning, building, and collaborating.
